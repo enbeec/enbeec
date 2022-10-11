@@ -1,8 +1,6 @@
 # 💛 Val Currie 💫
 
-## ❤️ Check out my website! 💥
-
-[https://about.valcurrie.com](about.valcurrie.com)
+## ❤️ [Check out my website!](https://about.valcurrie.com) 💥
 
 I made it right after my React/Django bootcamp and it's been sitting there collecting dust since.
 
@@ -15,12 +13,16 @@ Either way it will be a fun, slightly over-complicated front-end project when I 
 
 I'm working on a new blog *(with initial content harvested from one of the abandoned blogs I've kept over the years).*
 
-I'm planning on doing something very simple and maintainable long term that I will actually use 😅.
+I'm planning on doing something [like this](https://github.com/enbeec/walt) long term that I will actually use 😅.
+
+## 💙 Art Projects 🌊
+
+[Lissajous Harmonics (Teensy OLED)](https://github.com/enbeec/lissajous-demo)
 
 <!--
 ## 💚 🏔️
 
 ## 💜 🌌
 
-## 💙 🌊
+
 -->
